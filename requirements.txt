@@ -1,0 +1,11 @@
+# Tested with Python 3.14.6. scikit-learn is pinned because artifacts/final_model.joblib was saved with it.
+pandas==3.1.0
+numpy==2.5.4
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+joblib==1.6.0
+streamlit==1.66.1
+jupyter==1.1.1
+notebook==7.6.4
+ipykernel==7.4.0
